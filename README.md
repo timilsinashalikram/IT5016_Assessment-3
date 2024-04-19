@@ -1,5 +1,6 @@
 # IT5016_Assessment-3       
-Welcome to my IT5016 Assessment 3 repository! In this repository, I have gathered a variety of code examples that demonstrate my growth and expertise in programming. The repository is divided into two primary sections:  
+Welcome to my IT5016 Assessment 3 repository!
+In this repository, I have gathered a variety of code examples that demonstrate my growth and expertise in programming. The repository is divided into two primary sections:  
 
 #Collection of Own Codes                                                                                                                In this folder, you'll find five codes that I completed before this project. These codes represent my foundational understanding of programming concepts and demonstrate my early coding endeavors. They serve as a benchmark of my skills prior to undertaking this assessment. 
 
