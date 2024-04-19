@@ -15,4 +15,7 @@ To run the code, simply clone this repository to your local machine using git cl
 #Contributing
 Feel free to contribute to this repository. If you have any ideas for enhancements or want to share your own code snippets, just fork the repository and send a pull request. 
 
+#Contact
+Shalikram Timilsian, 20231323@mywhitecliffe.com
+
 Thank you for checking out my repository. I hope the code examples provided are helpful and informative!
