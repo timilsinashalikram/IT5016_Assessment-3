@@ -49,14 +49,13 @@ if __name__ == "__main__":
     attendance_system.add_student("Prakash", 4)
 
     # Mark attendance
-    attendance_system.mark_attendance(1, "2022-04-24", "Present")
-    attendance_system.mark_attendance(2, "2022-04-24", "Absent")
-    attendance_system.mark_attendance(3, "2022-04-24", "Present")
-    attendance_system.mark_attendance(4, "2022-04-24", "Present")
+    attendance_system.mark_attendance(1, "2024-04-12", "Present")
+    attendance_system.mark_attendance(2, "2024-04-12", "Absent")
+    attendance_system.mark_attendance(3, "2024-04-12", "Present")
+    attendance_system.mark_attendance(4, "2024-04-12", "Present")
 
     # Get attendance summary
-    date = "2022-04-24"
+    date = "2024-04-12"
     print(f"Attendance summary for {date}:")
     for line in attendance_system.get_attendance_summary(date):
         print(line)
-
